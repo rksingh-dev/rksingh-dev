@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [https://rksingh-dev.github.io/portfolio/](https://rksingh-dev.github.io/portfolio/)
 
-- 💬 Ask me about **html, css, javascript, reactjs, Backend, DSA**
+- 💬 Ask me about **html, css, javascript, reactjs, backend, DSA**
 
 - 📫 How to reach me **rahul2004ruby@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-kumar-singh-1a14401ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-kumar-singh-1a14401ba/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahul-kumar-singh-1a14401ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-kumar-singh-1a14401ba/" height="30" width="40" /></a>
 <a href="https://instagram.com/the_rahulepisode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_rahulepisode" height="30" width="40" /></a>
 </p>
 
