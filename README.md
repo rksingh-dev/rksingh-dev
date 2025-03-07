@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rahul Kumar Singh</h1>
-<h3 align="center">🚀 Tech Enthusiast | Full Stack Developer | Problem Solver</h3>
+<h3 align="center">🚀 Tech Enthusiast | MERN STACK Developer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rksingh-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
@@ -18,7 +18,6 @@
 
 ### 🚀 Projects & Portfolio
 - Check out my **Portfolio**: [![Portfolio](https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://rksingh-dev.github.io/portfolio/)
-- My latest projects are on **GitHub**: ![GitHub](https://img.shields.io/github/followers/rksingh-dev?style=social)
 
 ---
 
@@ -47,7 +46,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rksingh-dev&show_icons=true&theme=radical" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rksingh-dev&theme=radical" width="48%" alt="GitHub Streak"/>
+
 </p>
 
 ---
