@@ -17,7 +17,8 @@
 ---
 
 ### 🚀 Projects & Portfolio
-- Check out my **Portfolio**: [![Portfolio](https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=dev-dot-to&logoColor=white)](rksinghportfolio.vercel.app/)
+- Check out my **Portfolio**:  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rksinghportfolio.vercel.app/)
 
 ---
 
