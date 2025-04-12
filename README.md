@@ -50,12 +50,4 @@
 
 </p>
 
----
 
-### 🎯 Fun Fact
-💡 **Code & Coffee ☕ are my fuel for creativity!**  
-🎯 **I love collaborating and building innovative projects.**  
-
----
-
-🚀 **Let's build something amazing together!**
