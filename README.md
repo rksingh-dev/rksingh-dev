@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rahul Kumar Singh</h1>
-<h3 align="center">🚀 Tech Enthusiast | MERN STACK Developer | Problem Solver</h3>
+<h3 align="center">🚀 Tech Enthusiast | Full STACK Developer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rksingh-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
@@ -11,7 +11,7 @@
 - 🎓 **ECE Student** at **NIT Raipur**, passionate about **Full Stack Development & DSA**.
 - 💻 **Tech Stack**: C++, React.js, Express.js, Node.js, JavaScript, HTML, CSS, SQL.
 - 🔭 **Currently Working On**: Full Stack Development.
-- 🌱 **Currently Learning**: DSA & Fundamentals
+- 🌱 **Currently Learning**: DSA & AL/ML
 - 🏆 Always up for new challenges & open-source contributions!
 
 ---
