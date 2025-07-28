@@ -46,8 +46,8 @@
 
 
 📈 GitHub Stats  
-&nbsp;![](https://komarev.com/ghpvc/?username=imsks&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsks&show_icons=true&rank_icon=github&locale=en" alt="imsks" />
+&nbsp;![](https://komarev.com/ghpvc/?username=rksingh-dev&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rksingh-dev&show_icons=true&rank_icon=github&locale=en" alt="rksingh-dev" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rksingh-dev&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
 
