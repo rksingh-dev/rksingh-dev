@@ -18,7 +18,7 @@
 
 ### 🚀 Projects & Portfolio
 - Check out my **Portfolio**:  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rksingh27.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rahulkumarsingh.vercel.app/)
 
 ---
 
@@ -44,10 +44,11 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rksingh-dev&show_icons=true&theme=radical" width="48%" alt="GitHub Stats"/>
 
+📈 GitHub Stats  
+&nbsp;![](https://komarev.com/ghpvc/?username=imsks&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsks&show_icons=true&rank_icon=github&locale=en" alt="imsks" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsks&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
 
 
