@@ -9,7 +9,7 @@
 
 ### 🛠 About Me
 - 🎓 **ECE Student** at **NIT Raipur**, passionate about **Full Stack Development & DSA**.
-- 💻 **Tech Stack**: C++, React.js, JavaScript, HTML, CSS, SQL.
+- 💻 **Tech Stack**: C++, React.js, Express.js, Node.js, JavaScript, HTML, CSS, SQL.
 - 🔭 **Currently Working On**: Full Stack Development.
 - 🌱 **Currently Learning**: DSA & Fundamentals
 - 🏆 Always up for new challenges & open-source contributions!
