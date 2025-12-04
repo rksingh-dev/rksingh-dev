@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rahul Kumar Singh</h1>
-<h3 align="center">🚀 Tech Enthusiast | Full STACK Developer | Problem Solver</h3>
+<h3 align="center">🚀 Tech Enthusiast | FULL STACK Developer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rksingh-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
