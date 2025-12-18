@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Rahul Kumar Singh</h1>
+<h1 align="center">Hi there 👋, I'm RAHUL SINGH</h1>
 <h3 align="center">🚀 Tech Enthusiast | FULL STACK Developer | 2X Hackathon Winner</h3>
 
 <p align="center">
