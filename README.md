@@ -9,7 +9,7 @@
 
 ### 🛠 About Me
 - 🎓 **ECE Student** at **NIT Raipur**
-- 💻 **Tech Stack**: C++, Next.js, Express.js, Node.js, JavaScript, HTML, CSS, SQL.
+- 💻 **Tech Stack**: Next.js, Express.js, Node.js, TypeScript, HTML, CSS, SQL.
 - 🔭 **Currently Working On**: Full Stack Development.
 - 🌱 **Currently Learning**: DSA & AL/ML
 - 🏆 Always up for new challenges & open-source contributions!
